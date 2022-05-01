@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -std=c++11 -g -rdynamic CMakeFiles/userservice_provider.dir/userservice.cc.o CMakeFiles/userservice_provider.dir/__/user.pb.cc.o -o ../../../bin/userservice_provider   -L/home/melody/myrpc/lib  -Wl,-rpath,/home/melody/myrpc/lib:/usr/local/lib ../../../lib/libmprpc.a /usr/local/lib/libprotobuf.so -lmuduo_net -lmuduo_base -lpthread -lzookeeper_mt 

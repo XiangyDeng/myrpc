@@ -1,0 +1,15 @@
+/home/melody/myrpc/build/CMakeFiles/rebuild_cache.dir
+/home/melody/myrpc/build/CMakeFiles/edit_cache.dir
+/home/melody/myrpc/build/src/CMakeFiles/rebuild_cache.dir
+/home/melody/myrpc/build/src/CMakeFiles/mprpc.dir
+/home/melody/myrpc/build/src/CMakeFiles/edit_cache.dir
+/home/melody/myrpc/build/example/CMakeFiles/rebuild_cache.dir
+/home/melody/myrpc/build/example/CMakeFiles/edit_cache.dir
+/home/melody/myrpc/build/example/callee/CMakeFiles/edit_cache.dir
+/home/melody/myrpc/build/example/callee/CMakeFiles/userservice_provider.dir
+/home/melody/myrpc/build/example/callee/CMakeFiles/rebuild_cache.dir
+/home/melody/myrpc/build/example/callee/CMakeFiles/friendservice_provider.dir
+/home/melody/myrpc/build/example/caller/CMakeFiles/rebuild_cache.dir
+/home/melody/myrpc/build/example/caller/CMakeFiles/edit_cache.dir
+/home/melody/myrpc/build/example/caller/CMakeFiles/userservice_consumer.dir
+/home/melody/myrpc/build/example/caller/CMakeFiles/friendservice_consumer.dir

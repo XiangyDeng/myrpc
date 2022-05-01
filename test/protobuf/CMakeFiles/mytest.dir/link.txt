@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/mytest.dir/main.cpp.o -o mytest  -Wl,-rpath,/home/melody/myrpc/test/protobuf:/usr/local/lib libtest.so /usr/local/lib/libprotobuf.so -lprotobuf 
