@@ -1,5 +1,7 @@
 syntax = "proto3";
 
+// 编译语句：protoc --cpp_out=./ rpcheader.proto
+
 // 序列化包名称
 package mprpc;
 
